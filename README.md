@@ -53,6 +53,7 @@ You can start contributing by adding the following:
 | [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watsonlets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
+| [SummarizeBot AI](https://www.summarizebot.com/) | [Link](https://www.summarizebot.com/documentation.html) | Y | SummarizeBot AI API provides text summarization, sentiment analysis, and data extraction services to transform and analyze content from various formats such as documents, web pages, and social media. |
 
 ## GenAI API Integration Articles/Tutorials
 
